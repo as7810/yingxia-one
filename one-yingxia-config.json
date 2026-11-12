@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "one_yingxia",
+      "name": "ONE一个",
+      "type": 3,
+      "api": "./one-yingxia.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    }
+  ]
+}
